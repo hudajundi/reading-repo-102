@@ -6,4 +6,4 @@ The structure is very similar when a news story is viewed online which contain h
 * HTML uses tags (characters that sit inside angled  X brackets) to give the information they surround special meaning.
 * Tags usually come in pairs. The opening tag denotes  X the start of a piece of content; the closing tag denotes the end.
 ## HTML5 Layout
-![HTML Layout}(https://i.ytimg.com/vi/Id0A7O5vgoI/hqdefault.jpg)
+![HTML Layout](https://i.ytimg.com/vi/Id0A7O5vgoI/hqdefault.jpg)
