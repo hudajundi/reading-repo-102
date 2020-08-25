@@ -9,7 +9,7 @@ background color in the same way you can specify foreground colors
 ### CSS3 Color
 **HSL & HSLA** 
 The *HSL* color property has been introduced in CSS3 as an alternative way to specify colors. The value of the property starts with the letters hsl,
-followed by individual values inside parentheses for: 
+followed by: individual values inside parentheses for: 
 * **hue**: This is expressed as an angle (between 0 and 360 degrees).
 * **saturation**: This is expressed as a percentage.
 * **lightness**:This is expressed as apercentage with 0% being white, 50% being normal, and 100% being black
